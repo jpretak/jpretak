@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+# I'm John, a lifelong learner, technology and automation evangelist, and self appointed nerd.
+
+- 📫 How to reach me: ...
+
+  
+| How           | Value              |
+|--------------:|--------------------|
+|Phone     | (614) 403-1552|
+|Email     | John@Pretak.com    |
+|Morse Code| ...---...          |
+
+- 🔭 I’m currently working on ...
+- stuff
+  - other stuff
+  - more stuff
+- editing my github public profile
+
 <!--
 **jpretak/jpretak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
