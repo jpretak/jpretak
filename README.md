@@ -2,6 +2,8 @@
 
 # I'm John, a lifelong learner, technology and automation evangelist, and self appointed nerd.
 
+_please pay no mind to the sparse commit history... I'm busy doing actual work. (have you heard you can make repos private???  shhhh)_
+
 - 📫 How to reach me: ...
 
   
